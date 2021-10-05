@@ -5,11 +5,11 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacBM&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Isac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Isac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Isac-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Isac-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Isac-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Isac-HTML" height="30" width="95" src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="Isac-Python" height="30" width="100" src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Isac-JAVA" height="30" width="85" src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=java&logoColor=red">
+    <img align="center" alt="Isac-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Isac-pic" height="150" style="border-radius:50px;" src="">
 </div>
   
