@@ -5,11 +5,11 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacBM&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Isac-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Isac-HTML" height="30" width="95" src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Isac-Csharp" height="30" width="85" src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Isac-Python" height="30" width="100" src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Isac-JAVA" height="30" width="85" src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=java&logoColor=red">
+    <img align="center" alt="Isac-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-27273D?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Isac-HTML" height="30" width="95" src="https://img.shields.io/badge/HTML5-27273D?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="Isac-Csharp" height="30" width="85" src="https://img.shields.io/badge/CSS3-27273D?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="Isac-Python" height="30" width="100" src="https://img.shields.io/badge/Python-27273D?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Isac-JAVA" height="30" width="85" src="https://img.shields.io/badge/Java-27273D?style=for-the-badge&logo=java&logoColor=red">
   <img align="right" alt="Isac-pic" height="150" style="border-radius:50px;" src="">
 </div>
   
@@ -17,10 +17,10 @@
   
   <div> 
     
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-181818?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/isacbm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-181818?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-181818?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Gmail-181818?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-27273D?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/isacbm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-27273D?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-27273D?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Gmail-27273D?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-27273D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
