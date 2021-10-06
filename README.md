@@ -23,5 +23,4 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Gmail-27273D?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-27273D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    ![Snake animation](https://github.com/IsacBM/IsacBM/blob/output/github-contribution-grid-snake.svg)
-
 </div>
