@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo(a) ao meu perfil!
+## Olá, seja bem-vindo(a)!
 <div align="center">
   <a href="https://github.com/IsacBM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsacBM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
