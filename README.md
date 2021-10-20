@@ -8,7 +8,7 @@
     <img align="center" alt="Isac-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-27273D?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Isac-HTML" height="30" width="95" src="https://img.shields.io/badge/HTML5-27273D?style=for-the-badge&logo=html5&logoColor=ff500f">
     <img align="center" alt="Isac-CSS3" height="30" width="95" src="https://img.shields.io/badge/CSS3-27273D?style=for-the-badge&logo=css3&logoColor=007fff">
-    <img align="center" alt="Isac-Python" height="30" width="100" src="https://img.shields.io/badge/Python-27273D?style=for-the-badge&logo=python&logoColor=ffd700">
+    <img align="center" alt="Isac-Python" height="30" width="100" src="https://img.shields.io/badge/Python-27273D?style=for-the-badge&logo=python&logoColor=2264ff">
   <img align="center" alt="Isac-JAVA" height="30" width="85" src="https://img.shields.io/badge/Java-27273D?style=for-the-badge&logo=java&logoColor=fc1723">
   <img align="right" alt="Isac-pic" height="155" style="border-radius:1000px;" src="https://cdn.discordapp.com/attachments/897929978937761872/897930118968786944/download20211003163309.png">
 </div>
