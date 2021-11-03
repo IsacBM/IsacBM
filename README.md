@@ -17,7 +17,7 @@
   
   <div> 
     
-  <a href="https://www.youtube.com/channel/UC-EUIevNTCstzWk4P9p4pHg" target="_blank"><img src="https://img.shields.io/badge/YouTube-1a1b27?style=for-the-badge&logo=youtube&logoColor=fc1723" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-1a1b27?style=for-the-badge&logo=youtube&logoColor=fc1723" target="_blank"></a>
   <a href="https://www.instagram.com/isacbm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=hotpink" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=lithtblue" target="_blank"></a> 
   <a href = "mailto:isacbritomatos32@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
