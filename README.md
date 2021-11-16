@@ -1,8 +1,8 @@
 ##
 <div align="center">
   <a href="https://github.com/IsacBM">
-  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=IsacBM&locale=pt-br&show_icons=true&icon_color=628fda&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacBM&locale=pt-br&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=IsacBM&locale=en&show_icons=true&icon_color=628fda&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacBM&locale=en&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Isac-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
