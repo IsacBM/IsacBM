@@ -36,4 +36,4 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-1a1b27?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
   </div>
 
-  
+ 
