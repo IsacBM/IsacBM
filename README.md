@@ -29,6 +29,7 @@
   
   <div>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-1a1b27?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" target="_blank"></a>
+    
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe-Photoshop-1a1b27?style=for-the-badge&logo=Adobe-Photoshop&labelColor=000020&logoWidth=15" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=339933" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Vue.js-1a1b27?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" target="_blank"></a>
