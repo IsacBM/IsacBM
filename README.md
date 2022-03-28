@@ -8,8 +8,8 @@
   <img align="center" alt="Isac-HTML" height="30" width="95" src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=ff500f">
     <img align="center" alt="Isac-CSS3" height="30" width="95" src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=007fff">
     <img align="center" alt="Isac-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="Isac-React" height="30" width="100" src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Isac-JAVA" height="30" width="85" src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=java&logoColor=fc1723">
+    <img align="center" alt="Isac-JAVA" height="30" width="85" src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=java&logoColor=fc1723">
+    <img align="center" alt="Isac-PYTHON" height="30" width="100" src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=white">
   <img align="right" alt="Isac-pic" height="155" style="border-radius:1000px;" src="https://cdn.discordapp.com/attachments/897929978937761872/897930118968786944/download20211003163309.png">
 </div>
   
