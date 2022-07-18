@@ -19,7 +19,7 @@
     
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-1a1b27?style=for-the-badge&logo=youtube&logoColor=fc1723" target="_blank"></a>
   <a href="https://www.instagram.com/isacbm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=hotpink" target="_blank"></a>
- <a href="https://cdn.discordapp.com/attachments/897929978937761872/897930118968786944/download20211003163309.png" target="_blank"><img src="https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=lithtblue" target="_blank"></a> 
+ <a href="Zak#5944" target="_blank"><img src="https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=lithtblue" target="_blank"></a> 
   <a href = "mailto:isacbritomatos32@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isacbm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a> 
    ![Snake animation](https://github.com/IsacBM/IsacBM/blob/output/github-contribution-grid-snake.svg)
