@@ -1,8 +1,8 @@
 ##
 <div align="center">
   <a href="https://github.com/IsacBM">
-  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=IsacBM&locale=en&show_icons=true&icon_color=FF4500&theme=tokyonight&include_all_commits=true&count_private=true&title_color=f41d19&border_color=f41d19&text_color=FFF"/>
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacBM&locale=en&layout=compact&langs_count=7&theme=tokyonight&title_color=f41d19&border_color=f41d19&text_color=FFF"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=IsacBM&locale=en&show_icons=true&icon_color=35eb93&theme=tokyonight&include_all_commits=true&count_private=true&title_color=#2cacd1&border_color=3d3393&text_color=#2cacd1"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacBM&locale=en&layout=compact&langs_count=7&theme=tokyonight&title_color=#2cacd1&border_color=#2cacd1&text_color=#2cacd1"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Isac-HTML" height="30" width="95" src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=ff500f">
