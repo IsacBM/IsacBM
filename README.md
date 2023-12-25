@@ -28,9 +28,9 @@
   
   ----
   
-  <div> 
+<div> 
 
-   ![Snake animation](https://github.com/IsacBM/IsacBM/blob/output/github-contribution-grid-snake.svg)
+   ![snake animation](https://github.com/<IsacBM>/<IsacBM>/blob/output/github-contribution-grid-snake2.svg)
    
 </div>
 
