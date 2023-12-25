@@ -27,12 +27,7 @@
 </div>
   
   ----
-  
-<div> 
-
-   ![snake animation](https://github.com/<IsacBM>/<IsacBM>/blob/output/github-contribution-grid-snake2.svg)
-   
-</div>
+  <br>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count :)</b></p>  
