@@ -37,12 +37,7 @@
   ----
   
 <div>
-  <p>
-  <img align="left" alt="IsacBM YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/0D1117" />
-</p>
-  <p>
-  <img align="left" alt="IsacBM YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/0D1117" />
-</p>
+  
   <p>
   <img align="left" alt="IsacBM YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/0D1117" />
 </p>
