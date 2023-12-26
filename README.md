@@ -30,7 +30,7 @@
   <br>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count :)</b></p>  
+<br><p align="center"><b>Visitors Count :)</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IsacBM}/count.svg" /></p> 
 <br>
 </div>
@@ -38,7 +38,7 @@
   ----
   
 <div align="center">
-  <a href="https://youtube/">
+  <a href="https://www.youtube.com/@ZackBM">
   <img align="left" alt="IsacBM YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/e63719" />
 </a>
 <a href="https://www.instagram.com/isacbm_/">
@@ -54,7 +54,7 @@
   <img align="left" alt="IsacBM Gmail" width="20px" src="https://simpleicons.now.sh/gmail/e63719" />
 </a>
 
-|   &nbsp;&nbsp;&nbsp;  Site de Portfólio: <b> https://links-isacbm-v2.netlify.app/ </b> &nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; By <b> @IsacBM </b> - Copyright - 2K23
+|   &nbsp;&nbsp;&nbsp;  Site de Portfólio: <b> https://links-isacbm-v2.netlify.app/ </b> &nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; By <b> @IsacBM </b> - 2K23
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e63719&height=120&section=footer"/>
