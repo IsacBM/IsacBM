@@ -22,11 +22,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsacBm&bg_color=0d1117&color=e34f26&line=e44c30&point=c2c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Isac-pic" height="155" style="border-radius:1000px;" src="https://cdn.discordapp.com/attachments/897929978937761872/897930118968786944/download20211003163309.png">
-</div>
-  
+  <br>
+
   ----
+
   <br>
 
 <div align="center">
@@ -37,7 +36,17 @@
 
   ----
   
-<div align="center">
+<div>
+  <p>
+  <img align="left" alt="IsacBM YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/0D1117" />
+</p>
+  <p>
+  <img align="left" alt="IsacBM YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/0D1117" />
+</p>
+  <p>
+  <img align="left" alt="IsacBM YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/0D1117" />
+</p>
+  
   <a href="https://www.youtube.com/@ZackBM">
   <img align="left" alt="IsacBM YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/e63719" />
 </a>
@@ -53,8 +62,9 @@
 <a href="mailto:isacbritomatos32@gmail.com">
   <img align="left" alt="IsacBM Gmail" width="20px" src="https://simpleicons.now.sh/gmail/e63719" />
 </a>
-
-|   &nbsp;&nbsp;&nbsp;  Site de Portfólio: <b> https://links-isacbm-v2.netlify.app/ </b> &nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; By <b> @IsacBM </b> - 2K23
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  By <b> @IsacBM </b> - 2K23 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website: ...
+ 
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e63719&height=120&section=footer"/>
