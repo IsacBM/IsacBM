@@ -27,6 +27,15 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsacBm&bg_color=0d1117&color=e34f26&line=e44c30&point=c2c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+    <a href="https://github.com/isacbm/isacbm"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/isacbm/isacbm/graphs/contributors"><img
+    src="https://img.shields.io/github/contributors/isacbm/isacbm?color=e63719"></a>
+    <a href="https://github.com/isacbm/isacbm/stargazers"><img src="https://img.shields.io/github/stars/isacbm/isacbm.svg?color=e63719&logo=github"></a>
+    <a href="https://github.com/isacbm/isacbm/network/members"><img src="https://img.shields.io/github/forks/isacbm/isacbm.svg?color=e63719&logo=github"></a>
+    <img src="https://img.shields.io/github/followers/isacbm.svg?style=social&label=Follow&maxAge=2592000">
+</p>
+
   <br>
 
   ----
