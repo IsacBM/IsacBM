@@ -21,7 +21,15 @@
 ![Leaflet](https://img.shields.io/badge/Leaflet-0D1117?style=for-the-badge&logo=Leaflet&logoColor=199900)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)&nbsp;
 
-<br>
+##
+
+### • About Me:
+<p> 📚 I like to improve myself more and more in the things I learn! <br>
+    🌄 Most of the time I try to be in contact with nature. <br>
+    🎨 I make drawing a hobby, always trying to express new meanings and visions in them! :) <br>
+    🐶 I like learning and understanding about animals, especially dogs!!! <br>
+    🌎 I intend to explore the world, get to know as many cultures and places as possible!
+</p>
 
 ----
 
@@ -36,11 +44,7 @@
     <img src="https://img.shields.io/github/followers/isacbm.svg?style=social&label=Follow&maxAge=2592000">
 </p>
 
-  <br>
-
   ----
-
-  <br>
 
 <div align="center">
 <br><p align="center"><b>Visitors Count :)</b></p>  
