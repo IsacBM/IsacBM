@@ -11,15 +11,15 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117)&nbsp; 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=0D1117)&nbsp;
 
 ##
 
 ### • Studying in this moment:
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=green)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Leaflet](https://img.shields.io/badge/Leaflet-0D1117?style=for-the-badge&logo=Leaflet&logoColor=199900)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
 
 ##
 
@@ -45,16 +45,17 @@
 </p>
 
   ----
-<!--
+
 <details>
- <summary>• Github Stats</summary>
+ <summary align="center">⚡ Github Stats</summary>
  <br>
-  <img align="center" src="https://github-readme-stats-81uj-isacbm.vercel.app/api/top-langs/?username=isacbm&layout=donut&langs_count=7&hide=yacc,glsl,dart&theme=radical" />
-  <!-- <img align="center" src= "https://github-readme-stats-8dtfxfr6g-willowitzy.vercel.app/api?username=willowitzy&theme=radical&line_height=28" />
+    
+  <div align="center">
+      <img width='800' src="https://github-profile-trophy.vercel.app/?username=isacbm&theme={tokyonight}" />
+  </div>
 
 </p> 
 </details>
--->
 
   ----
 
