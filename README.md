@@ -6,7 +6,7 @@
 
 
 ### • Main skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,kotlin,postgres,bootstrap,react,nodejs,nextjs,figma,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,kotlin,postgres,bootstrap,react,nodejs,nextjs,figma,git,github&theme=dark)]()
 ##
 
 ### • Studying in this moment:
@@ -76,9 +76,6 @@
 </a>
 <a href="https://www.instagram.com/isacbm_/">
   <img align="left" alt="IsacBM Instagram" width="20px" src="https://simpleicons.now.sh/instagram/e63719" />
-</a>
-<a href="https://www.linkedin.com/in/isacbm/">
-  <img align="left" alt="IsacBM LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/e63719" />
 </a>
 <a href="https://github.com/IsacBM">
   <img align="left" alt="IsacBM Github" width="20px" src="https://simpleicons.now.sh/github/e63719" />
