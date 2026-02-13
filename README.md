@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e63719&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f290f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e63719&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Isac+B.+Matos;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f290f&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Isac+B.+Matos;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!!!+:%29)](https://git.io/typing-svg)
 
 ### Hello again! :) Here you will find projects and applications developed by me, some are from my YouTube channel and others are personal projects. Feel free!!
 
@@ -29,12 +29,12 @@
 
 ----
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsacBm&bg_color=0d1117&color=e34f26&line=e44c30&point=c2c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsacBm&bg_color=0d1117&color=5f290f&line=7e462b&point=c2c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
     <a href="https://github.com/isacbm/isacbm"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/isacbm/isacbm/graphs/contributors"><img
-    src="https://img.shields.io/github/contributors/isacbm/isacbm?color=e63719"></a>
+    src="https://img.shields.io/github/contributors/isacbm/isacbm?color=7e462b"></a>
     <a href="https://github.com/isacbm/isacbm/stargazers"><img src="https://img.shields.io/github/stars/isacbm/isacbm.svg?color=e63719&logo=github"></a>
     <a href="https://github.com/isacbm/isacbm/network/members"><img src="https://img.shields.io/github/forks/isacbm/isacbm.svg?color=e63719&logo=github"></a>
     <img src="https://img.shields.io/github/followers/isacbm.svg?style=social&label=Follow&maxAge=2592000">
@@ -72,20 +72,20 @@
 </p>
   
   <a href="https://www.youtube.com/@ZackBM">
-  <img align="left" alt="IsacBM YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/e63719" />
+  <img align="left" alt="IsacBM YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/5f290f" />
 </a>
 <a href="https://www.instagram.com/isacbm_/">
-  <img align="left" alt="IsacBM Instagram" width="20px" src="https://simpleicons.now.sh/instagram/e63719" />
+  <img align="left" alt="IsacBM Instagram" width="20px" src="https://simpleicons.now.sh/instagram/5f290f" />
 </a>
 <a href="https://github.com/IsacBM">
-  <img align="left" alt="IsacBM Github" width="20px" src="https://simpleicons.now.sh/github/e63719" />
+  <img align="left" alt="IsacBM Github" width="20px" src="https://simpleicons.now.sh/github/5f290f" />
 </a>
 <a href="mailto:isacbritomatos32@gmail.com">
-  <img align="left" alt="IsacBM Gmail" width="20px" src="https://simpleicons.now.sh/gmail/e63719" />
+  <img align="left" alt="IsacBM Gmail" width="20px" src="https://simpleicons.now.sh/gmail/5f290f" />
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  By <b> @IsacBM </b> - 2K23 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website: ...
  
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e63719&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f290f&height=120&section=footer"/>
